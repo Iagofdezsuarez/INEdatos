@@ -1,25 +1,20 @@
 Datos de series
-Gasto total. Total Nacional. Turista. Dato base. 
-Serie,FREG375
+Gasto total,Total Nacional,Turista.
 Periodicidad,Mensual
-Unidad,Euros
 DATOS
 PERIODO,VALOR,TIPO DATO,NOTA
-2020M12,696,16,Provisional,
-2020M11,467,15,Provisional,
-2020M10,861,80,Provisional,
-2020M09,967,48,Provisional,
-2020M08,2.456,83,Provisional,
-2020M07,2.450,09,Provisional,
-2020M06,133,37,Provisional,
-2020M05,0,00,Provisional,
-2020M04,0,00,Provisional,
-2020M03,2.214,89,Provisional,
-2020M02,4.713,58,Provisional,
-2020M01,4.778,57,Provisional,
-2019M12,5.010,84,Definitivo,
-2019M11,5.062,63,Definitivo,
-2019M10,8.322,55,Definitivo,
-
-Dato: .. Dato no disponible
-Dato: . Protegido por secreto estadístico
+2020M12,696,16
+2020M11,467,15
+2020M10,861,80
+2020M09,967,48
+2020M08,2.456,83
+2020M07,2.450,09
+2020M06,133,37
+2020M05,0,00
+2020M04,0,00
+2020M03,2.214,89
+2020M02,4.713,58,
+2020M01,4.778,57
+2019M12,5.010,84
+2019M11,5.062,63
+2019M10,8.322,55
