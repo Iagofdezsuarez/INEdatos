@@ -1,26 +1,16 @@
-Datos de series
-
-Gasto medio diario por persona. Total Nacional. Turista. Dato base. 
-Serie,FREG373
-Periodicidad,Mensual
-Unidad,Euros
-DATOS
-PERIODO,VALOR,TIPO DATO,NOTA
-2020M12,109,Provisional,
-2020M11,115,Provisional,
-2020M10,105,Provisional,
-2020M09,106,Provisional,
-2020M08,116,Provisional,
-2020M07,123,Provisional,
-2020M06,114,Provisional,
-2020M05,0,Provisional,
-2020M04,0,Provisional,
-2020M03,152,Provisional,
-2020M02,156,Provisional,
-2020M01,144,Provisional,
-2019M12,149,Definitivo,
-2019M11,161,Definitivo,
-2019M10,161,Definitivo,
-
-Dato: .. Dato no disponible
-Dato: . Protegido por secreto estadístico
+PERIODO,VALOR
+2020M12,109
+2020M11,115
+2020M10,105
+2020M09,106
+2020M08,116
+2020M07,123
+2020M06,114
+2020M05,0
+2020M04,0
+2020M03,152
+2020M02,156
+2020M01,144
+2019M12,149
+2019M11,161
+2019M10,161
